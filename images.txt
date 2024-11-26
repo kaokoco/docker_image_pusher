@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-halohub/halo:2.20.9
+halohub/halo:2.20.10
 nginx:1.27.2
