@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-halohub/halo:2.20.21
-#nginx:1.27.5
+#halohub/halo:2.20.21
+nginx:1.28.0
 #golang:1.24.3-bullseye
 #alpine:3.21.3
