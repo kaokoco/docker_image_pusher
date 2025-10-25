@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 halohub/halo:2.21.6
 ubuntu:24.04
+postgres:18.0-alpine3.22
 #nginx:1.28.0
 #golang:1.24.3-bullseye
 #alpine:3.21.3
