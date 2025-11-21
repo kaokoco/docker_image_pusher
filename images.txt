@@ -10,7 +10,7 @@
 #--platform=linux/arm64 gitea/act_runner:0.2.13
 #--platform=linux/arm64 rancher/rancher:v2.5.9
 #--platform=linux/arm64 rancher/rancher:stable
---platform=linux/arm64 rancher-agent:stable
+--platform=linux/arm64 rancher/rancher-agent:v2.12.3-hotfix-a3c0.4
 #--platform=linux/arm64 mzz2017/v2raya:v2.2.7.4
 #nginx:1.28.0
 #golang:1.24.3-bullseye
